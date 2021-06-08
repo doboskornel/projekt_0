@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+} 
+h3{
+color: red;
+text-align: center;
+}
+.header {
+    padding: 5px;
+    text-align: center;
+    background-image: url(img/coco.jpeg);
+}
+.header h1 {
+    font-size: 50px;
+  }
+body {
+    font-family: Arial;
+    padding: 10px;
+    background-image: url(img/a.jpg) ;
+  } 
+
+h1{
+ text-align: center;
+}
+.dodgerblue{
+    color:DodgerBlue;
+}
+
+.red{
+    color:red;
+    text-align: center;
+}
+.filmheader{
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    background-image: url(img/coco.jpeg);
+}
+.tartjegy{
+color:red;
+text-align: left;
+}
